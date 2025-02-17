@@ -1,4 +1,4 @@
-# Troubled-Waters
+# Troubled-Waters (https://bigmonsterstrike.itch.io/open-waters)
 Second Semester Video Game Dev Uni Project
 
 Troubled Waters - Video Game Dev University, Second Semester Project.
